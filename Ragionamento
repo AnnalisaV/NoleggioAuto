@@ -1,0 +1,8 @@
+Cosa puo' succedere che modifichi la situazione? -> EVENTI
+- arriva un cliente che vuole auto
+- il cliente restituisce l'auto (se ne va)
+
+Poi, il numero di auto nel 'negozio' e' fisso, costante 
+mentre il numero di cars disponbili cambia di volta in volta a seconda dei clienti
+
+Si considera una giornata di lavoro!
